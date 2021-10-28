@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ePD-T1-0zh"; */
+"ePD-T1-0zh.text" = "Label";
+
+/* Class = "UITextView"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume.\n\n"; ObjectID = "eol-oX-YFZ"; */
+"eol-oX-YFZ.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume.\n\n";
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "f77-QD-A7D"; */
+"f77-QD-A7D.configuration.title" = "تعلم اكثر";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "f77-QD-A7D"; */
+"f77-QD-A7D.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Jupiter"; ObjectID = "gxk-pW-LHQ"; */
+"gxk-pW-LHQ.text" = "زحل";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "yxw-Q0-Uwf"; */
+"yxw-Q0-Uwf.title" = "Item";
+
+/* Class = "UITextView"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine..."; ObjectID = "zo3-gu-gUN"; */
+"zo3-gu-gUN.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine...";
