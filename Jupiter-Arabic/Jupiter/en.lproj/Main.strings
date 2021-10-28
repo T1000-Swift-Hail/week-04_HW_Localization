@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "2m4-EU-LLh"; */
+"2m4-EU-LLh.configuration.title" = "Learn More";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2m4-EU-LLh"; */
+"2m4-EU-LLh.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Jupiter"; ObjectID = "hfe-5y-7l5"; */
+"hfe-5y-7l5.text" = "Jupiter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "mjw-uJ-kd1"; */
+"mjw-uJ-kd1.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine..."; ObjectID = "t56-WT-6PF"; */
+"t56-WT-6PF.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine...";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume."; ObjectID = "w53-SY-K0c"; */
+"w53-SY-K0c.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume.";
