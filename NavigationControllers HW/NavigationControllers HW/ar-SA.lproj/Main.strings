@@ -1,0 +1,19 @@
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine..."; ObjectID = "3lg-PE-Btw"; */
+"3lg-PE-Btw.text" = "هو أضخم كواكب المجموعة الشمسية. سمي بالمشتري لأنه يستشري في سيره أي يلـجُّ ويمضي ويَـجِدُّ فيه بلا فتور ولا انكسار. وكان المشتري معروفاً للفلكيين القدماء وارتبط بأساطير وأديان العديد من الشعوب. وقد أطلق الرومان عليه اسم جوبيتر وهو...";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume."; ObjectID = "JbX-79-zth"; */
+"JbX-79-zth.text" = "المشتري خامس الكواكب بعداً عن الشمس وأكبر كواكب المجموعة الشمسية. وهو عملاق غازي وكتلته أقل بقليل من 1/1000 من كتلة الشمس، لكنها تساوي ثلثي كتلة مجموع باقي كواكب المجموعة. ويضم تصنيف العمالقة الغازية كل من زحل وأورانوس ونبتون إضافةً إلى المشتري. ويطلق على هذه الكواكب الأربعة اسم الكواكب الجوفيانية
+تكون المشتري بشكل رئيسي من الهيدروجين، ويشكل الهيليوم أقل بقليل من ربع كتلته. وفي الغالب يحتوي على نواة صخرية تتكون من عناصر أثقل. شكل المشتري كروي مفلطح بسبب سرعة دورانه الكبيرة. يظهر الغلاف الجوي الخارجي تمايزاً واضحاً لعدة نطاقات في خطوط طول مختلفة. مما يؤدي إلى الاضطراب والعواصف على طول هذه الحدود..";
+
+/* Class = "UILabel"; text = "Jupiter"; ObjectID = "b1Q-us-Gh2"; */
+"b1Q-us-Gh2.text" = "المشتري";
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "lw7-El-n8V"; */
+"lw7-El-n8V.configuration.title" = "المزيد من المعلومات";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lw7-El-n8V"; */
+"lw7-El-n8V.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "w3b-m1-vc1"; */
+"w3b-m1-vc1.normalTitle" = "Button";
