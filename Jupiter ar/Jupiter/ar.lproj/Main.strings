@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Jupiter"; ObjectID = "Pwg-Oy-xIU"; */
+"Pwg-Oy-xIU.text" = "كوكب المشتري";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "Q6I-wh-dfK"; */
+"Q6I-wh-dfK.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "bma-h7-8zI"; */
+"bma-h7-8zI.configuration.title" = "تعلم أكثر";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bma-h7-8zI"; */
+"bma-h7-8zI.normalTitle" = "تعلم أكثر";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume."; ObjectID = "nIW-rq-bro"; */
+"nIW-rq-bro.text" = "كوكب المشتري هو الكوكب الخامس من الشمس والأكبر في المجموعة الشمسية. إنه عملاق غازي كتلته أكبر بمرتين ونصف من كتلة جميع الكواكب الأخرى في النظام الشمسي مجتمعة ، ولكنها أقل بقليل من واحد في الألف من كتلة الشمس. كوكب المشتري هو ثالث ألمع جسم طبيعي في سماء الأرض ليلاً بعد القمر والزهرة. لوحظ منذ عصور ما قبل التاريخ وسمي على اسم الإله الروماني جوبيتر ، ملك الآلهة ، بسبب حجمه الملحوظ ، ويتكون المشتري أساسًا من الهيدروجين ، لكن الهيليوم يشكل ربع كتلته وعُشر كتلته. الصوت.";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine...\n"; ObjectID = "yVA-gh-lnN"; */
+"yVA-gh-lnN.text" = "كوكب المشتري هو الكوكب الخامس من الشمس والأكبر في المجموعة الشمسية. إنه عملاق غازي كتلته تزيد مرتين ونصف عن كتلة جميع الكواكب الأخرى في النظام الشمسي ...";
