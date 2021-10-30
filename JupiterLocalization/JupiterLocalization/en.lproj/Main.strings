@@ -1,0 +1,18 @@
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "TM4-m6-FcO"; */
+"TM4-m6-FcO.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextView"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine...\n\n"; ObjectID = "UsW-3I-hcu"; */
+"UsW-3I-hcu.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine...\n\n";
+
+/* Class = "UILabel"; text = "         Jupiter\n\n"; ObjectID = "k0E-GB-YqL"; */
+"k0E-GB-YqL.text" = "         Jupiter\n\n";
+
+/* Class = "UIButton"; configuration.title = "Learn more"; ObjectID = "vVQ-du-13i"; */
+"vVQ-du-13i.configuration.title" = "Learn more";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vVQ-du-13i"; */
+"vVQ-du-13i.normalTitle" = "Button";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "ylk-oU-x6B"; */
+"ylk-oU-x6B.title" = "Item";
