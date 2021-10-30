@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Jupiter"; ObjectID = "3Hl-Pv-rzw"; */
+"3Hl-Pv-rzw.text" = "المشتري";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine..."; ObjectID = "P0T-lh-0fX"; */
+"P0T-lh-0fX.text" = "المُشْتَرِي هو أضخم كواكب المجموعة الشمسية .وهو خامس الكواكب بعداً عن الشمس وأكبر كواكب المجموعة الشمسية . وهو عملاق غازي وكتلته تزيد مرتين ونصف عن كتلة جميع الكواكب الأخرى في النظام الشمسي.";
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "bcz-Wy-BSn"; */
+"bcz-Wy-BSn.configuration.title" = "معلومات اكثر";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bcz-Wy-BSn"; */
+"bcz-Wy-BSn.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lt8-wy-MT4"; */
+"lt8-wy-MT4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume."; ObjectID = "mnb-SB-7iI"; */
+"mnb-SB-7iI.text" = "كوكب المشتري هو الكوكب الخامس من الشمس والأكبر في المجموعة الشمسية. إنه عملاق غازي كتلته تزيد مرتين ونصف عن كتلة جميع الكواكب الأخرى في النظام الشمسي مجتمعة ، ولكنها أقل بقليل من واحد في الألف من كتلة الشمس. كوكب المشتري هو ثالث ألمع جسم طبيعي في سماء الأرض ليلاً بعد القمر والزهرة. لوحظ منذ عصور ما قبل التاريخ وسمي على اسم الإله الروماني جوبيتر ، ملك الآلهة ، بسبب حجمه الملحوظ ، ويتكون المشتري أساسًا من الهيدروجين ، لكن يشكل الهيليوم أقل بقليل من ربع كتلته .";
