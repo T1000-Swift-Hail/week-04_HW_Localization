@@ -1,0 +1,20 @@
+
+/* Class = "UILabel"; text = "LabelJupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume."; ObjectID = "1p9-3D-y3E"; */
+"1p9-3D-y3E.text" = "المشتري خامس الكواكب بعداً عن الشمس وأكبر كواكب المجموعة الشمسية.[16] وهو عملاق غازي وكتلته تساوي ثلثي كتلة مجموع باقي كواكب المجموعة. ويضم تصنيف العمالقة الغازية كل من زحل وأورانوس . يتكون المشتري بشكل رئيسي من الهيدروجين، ويشكل الهيليوم أقل بقليل من ربع كتلته. وفي الغالب يحتوي على نواة صخرية تتكون من عناصر أثقل. ";
+
+/* Class = "UILabel"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine..."; ObjectID = "7Ts-aC-Z4X"; */
+"7Ts-aC-Z4X.text" = "المشتري خامس الكواكب بعداً عن الشمس وأكبر كواكب المجموعة الشمسية. وهو عملاق غازي وكتلته تساوي ثلثي كتلة مجموع باقي كواكب المجموعة. ويضم تصنيف العمالقة الغازية كل من زحل وأورانوس";
+
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "FOK-b9-Vht"; */
+
+"FOK-b9-Vht.configuration.title" = "معلومات اكثر";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "FOK-b9-Vht"; */
+"FOK-b9-Vht.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "المشتري"; ObjectID = "i2R-Ga-nqU"; */
+"i2R-Ga-nqU.text" = "Jupiter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "yDG-SF-vUB"; */
+"yDG-SF-vUB.normalTitle" = "Button";
