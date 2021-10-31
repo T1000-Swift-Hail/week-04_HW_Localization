@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Jupiter"; ObjectID = "GUw-4U-sVm"; */
+"GUw-4U-sVm.text" = "Jupiter";
+
+/* Class = "UITextView"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine..."; ObjectID = "K57-GN-fb5"; */
+"K57-GN-fb5.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combine...";
+
+/* Class = "UIButton"; configuration.title = "Learn More"; ObjectID = "iu4-Nf-mvH"; */
+"iu4-Nf-mvH.configuration.title" = "Learn More";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "iu4-Nf-mvH"; */
+"iu4-Nf-mvH.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume."; ObjectID = "ucY-qm-n36"; */
+"ucY-qm-n36.text" = "Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third-brightest natural object in the Earth's night sky after the Moon and Venus. It has been observed since pre-historic times and is named after the Roman god Jupiter, the king of the gods, because of its observed size.Jupiter is primarily composed of hydrogen, but helium constitutes one quarter of its mass and one tenth of its volume.";
